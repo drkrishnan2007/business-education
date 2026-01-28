@@ -18,7 +18,8 @@ const topics = [
     title: 'How Businesses Work',
     description: 'Discover how organisations create value, serve customers, and sustain themselves over time. From sole traders to global corporations.',
     icon: '🏢',
-    isActive: false,
+    href: '/topics/business',
+    isActive: true,
   },
   {
     title: 'How People Work',
