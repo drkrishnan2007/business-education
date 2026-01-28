@@ -328,9 +328,9 @@ export default function SoloVsGroupPage() {
               बुद्धिर्बुद्धिमतः क्षिप्ता हन्याद् राष्ट्रं सनायकम्॥&quot;
             </blockquote>
             <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;An arrow released from a bow may
-              or may not kill a single person. But wise counsel from a
-              wise person can destroy an entire kingdom with its king.&quot;
+              <strong>Meaning:</strong> &quot;An arrow can only reach one
+              person. But wise counsel can shape the fate of nations.&quot;
+              The point: good advice is more powerful than physical force.
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
               Avvaiyar reminded us to balance counsel with self-trust:
