@@ -256,8 +256,8 @@ export default function DecisionsShapeLifePage() {
             </blockquote>
             <p className="text-gray-700 leading-relaxed mb-4">
               <strong>Meaning:</strong> &quot;Works are accomplished through
-              effort, not mere wishes. Deer do not enter the mouth of a
-              sleeping lion.&quot;
+              effort, not mere wishes. Even the mighty lion must wake and
+              hunt&mdash;success does not come to those who only dream.&quot;
             </p>
             <p className="text-gray-700 leading-relaxed">
               <strong>In modern terms:</strong> Your decisions are your
