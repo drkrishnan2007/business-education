@@ -331,8 +331,8 @@ export default function WalkingAwayPage() {
               Ancient Wisdom on Strategic Withdrawal
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
-              Chanakya understood that knowing when to retreat is as important
-              as knowing when to advance:
+              An ancient Sanskrit saying captures the wisdom of knowing when
+              to retreat:
             </p>
             <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
               &quot;अप्राप्यं त्यज संदिग्धं प्राप्तं प्राप्तमुपाश्रय&quot;
@@ -342,15 +342,15 @@ export default function WalkingAwayPage() {
               avoid the doubtful, and hold on to what is certain.&quot;
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
-              And Thiruvalluvar on self-respect in dealings:
+              And Thiruvalluvar on knowing when not to risk:
             </p>
             <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
-              &quot;மானம் குலைந்தால் உயிர் நில்லாது<br />
-              ஊணும் உறக்கமும் இல்&quot;
+              &quot;ஆக்கம் கருதி முதலிழக்கும் செய்வினை<br />
+              ஊக்கார் அறிவுடை யார்&quot;
             </blockquote>
             <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;When honour is lost, life has no
-              meaning; even food and sleep bring no comfort.&quot;
+              <strong>Meaning:</strong> &quot;The wise do not risk what they
+              have for uncertain gain.&quot;
             </p>
             <p className="text-gray-700 leading-relaxed">
               <strong>In modern terms:</strong> Some deals cost more than they

@@ -107,7 +107,8 @@ export default function NegotiationTopicPage() {
             &quot;सामदानभेददण्डैः साध्यं कार्यं प्रयोजयेत्।&quot;
           </blockquote>
           <blockquote className="text-lg font-serif text-[#5b21b6] italic">
-            &quot;Accomplish your goals through conciliation, generosity, creating differences, or force&mdash;in that order.&quot;
+            &quot;Achieve your goals through dialogue first, then generosity,
+            then finding alternatives, and only as a last resort, firmness.&quot;
           </blockquote>
           <p className="mt-2 text-gray-600">&mdash; Chanakya, Arthashastra</p>
         </div>
