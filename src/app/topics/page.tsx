@@ -44,7 +44,8 @@ const topics = [
     title: 'How to Negotiate',
     description: 'Master the art of reaching agreements that benefit all parties. Learn principles that have worked for millennia.',
     icon: '🤝',
-    isActive: false,
+    href: '/topics/negotiation',
+    isActive: true,
   },
   {
     title: 'How to Manage Yourself',
