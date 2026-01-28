@@ -48,7 +48,8 @@ const topics = [
     title: 'How to Manage Yourself',
     description: 'Build the personal disciplines that underpin all success: time management, focus, resilience, and continuous learning.',
     icon: '🧘',
-    isActive: false,
+    href: '/topics/self',
+    isActive: true,
   },
   {
     title: 'Marketing Fundamentals',
