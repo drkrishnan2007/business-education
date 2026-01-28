@@ -96,22 +96,10 @@ export default function MarketingTopicPage() {
             </li>
             <li className="flex items-start gap-3">
               <span className="text-[#5b21b6] mt-1">&#10003;</span>
-              <span>Ancient wisdom from Thirukkural on giving, reputation, and helping others</span>
+              <span>Ancient wisdom on giving, reputation, and trust</span>
             </li>
           </ul>
         </section>
-
-        {/* Wisdom Box */}
-        <div className="wisdom-box mb-8">
-          <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2">
-            &quot;ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை<br />
-            வைத்திழக்கும் வன்கணவர்.&quot;
-          </blockquote>
-          <blockquote className="text-lg font-serif text-[#5b21b6] italic">
-            &quot;Those who hoard wealth and lose it do not know the joy of giving.&quot;
-          </blockquote>
-          <p className="mt-2 text-gray-600">&mdash; Thirukkural, Kural 228</p>
-        </div>
 
         {/* Lessons */}
         <section>
