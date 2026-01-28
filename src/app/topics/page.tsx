@@ -60,7 +60,8 @@ const topics = [
     title: 'Marketing Fundamentals',
     description: 'Understand how to communicate value, build trust, and connect products with the people who need them.',
     icon: '📣',
-    isActive: false,
+    href: '/topics/marketing',
+    isActive: true,
   },
 ];
 
