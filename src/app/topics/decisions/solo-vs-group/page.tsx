@@ -333,14 +333,13 @@ export default function SoloVsGroupPage() {
               wise person can destroy an entire kingdom with its king.&quot;
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
-              Thiruvalluvar advised on self-reliance alongside counsel:
+              Avvaiyar reminded us to balance counsel with self-trust:
             </p>
             <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
               &quot;ஊக்கமது கைவிடேல்&quot;
             </blockquote>
             <p className="text-gray-700 leading-relaxed mb-4">
               <strong>Meaning:</strong> &quot;Do not give up self-confidence.&quot;
-              &mdash; Avvaiyar
             </p>
             <p className="text-gray-700 leading-relaxed">
               <strong>In modern terms:</strong> Seek counsel for strategic
