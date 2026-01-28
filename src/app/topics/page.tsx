@@ -24,7 +24,8 @@ const topics = [
     title: 'How People Work',
     description: 'Learn what motivates people, how teams function, and why understanding human nature is essential for any leader.',
     icon: '👥',
-    isActive: false,
+    href: '/topics/people',
+    isActive: true,
   },
   {
     title: 'How Decisions Get Made',
