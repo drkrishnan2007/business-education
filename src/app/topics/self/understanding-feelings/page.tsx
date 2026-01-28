@@ -271,29 +271,28 @@ export default function UnderstandingFeelingsPage() {
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
               Thiruvalluvar dedicated an entire chapter of the Thirukkural to
-              &quot;&#2949;&#2975;&#2965;&#3021;&#2965;&#2990;&#3009;&#2975;&#3016;&#2990;&#3016;&quot; (self-control or restraint):
+              &quot;அடக்கமுடைமை&quot; (self-control or restraint):
             </p>
             <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-4 border-l-4 border-[#eab308] pl-4">
-              &quot;&#2949;&#2975;&#2965;&#3021;&#2965;&#2990;&#3021; &#2949;&#2990;&#2992;&#2992;&#3009;&#2995;&#3021; &#2953;&#2991;&#3021;&#2965;&#3021;&#2965;&#3009;&#2990;&#3021; &#2949;&#2975;&#2965;&#3021;&#2965;&#2990;&#2980;&#3021;<br />
-              &#2980;&#3007;&#2994;&#2994;&#3009;&#2995;&#3006;&#2992;&#3021; &#2980;&#3018;&#2996;&#3021;&#2965;&#2991;&#2980;&#3021;&#2980;&#3009; &#2951;&#2996;&#3009;&#2965;&#3021;&#2965;&#3009;.&quot;
+              &quot;அடக்கம் அமரருள் உய்க்கும் அடங்காமை<br />
+              ஆரிருள் உய்த்து விடும்.&quot;
             </blockquote>
             <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;Self-control will place one among
-              the gods, while lack of it will push one into deepest darkness.&quot;
-              (Kural 121)
+              <strong>Meaning:</strong> &quot;Self-control elevates one among
+              the gods; lacking it leads to darkness.&quot; (Kural 121)
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
-              And another verse:
+              And on the power of words:
             </p>
             <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-4 border-l-4 border-[#eab308] pl-4">
-              &quot;&#2965;&#3006;&#2965;&#3021;&#2965; &#2965;&#2997;&#2992;&#3007; &#2965;&#2997;&#2992;&#3007;&#2984;&#3021;&#2980;&#3006;&#2992;&#3021; &#2949;&#2997;&#2992;&#2984;&#3007;&#2994;&#3016;&#2991;&#3016;<br />
-              &#2984;&#3006;&#2965; &#2965;&#3006;&#2965;&#3021;&#2965;&#3007;&#2985;&#3021; &#2965;&#2975;&#3016;.&quot;
+              &quot;தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே<br />
+              நாவினாற் சுட்ட வடு.&quot;
             </blockquote>
             <p className="text-gray-700 leading-relaxed">
-              <strong>Meaning:</strong> &quot;Those who guard their tongue from
-              angry words have attained a state hard to reach.&quot; (Kural 127)
-              Thiruvalluvar understood that controlling what you say in moments
-              of anger is one of the hardest&mdash;and most valuable&mdash;skills.
+              <strong>Meaning:</strong> &quot;Burns from fire will heal; wounds
+              from harsh words never recover.&quot; (Kural 129)
+              This is why the pause matters&mdash;words spoken in anger leave
+              scars that last far longer than the moment.
             </p>
           </section>
 
