@@ -255,7 +255,7 @@ export default function PowerOfHabitsPage() {
               ago, understood the power of steady effort:
             </p>
             <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-4 border-l-4 border-[#eab308] pl-4">
-              &quot;&#2962;&#2965;&#3021;&#2965;&#2990;&#2980;&#3009; &#2965;&#3016;&#2997;&#3007;&#2975;&#3015;&#2994;&#3021;&quot;
+              &quot;ஊக்கமது கைவிடேல்&quot;
             </blockquote>
             <p className="text-gray-700 leading-relaxed mb-4">
               <strong>Meaning:</strong> &quot;Never abandon your persistence.&quot;
