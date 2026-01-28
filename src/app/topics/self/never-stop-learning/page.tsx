@@ -238,7 +238,7 @@ export default function NeverStopLearningPage() {
               ago, understood what truly matters:
             </p>
             <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-4 border-l-4 border-[#eab308] pl-4">
-              &quot;&#2965;&#3016;&#2986;&#3021;&#2986;&#3018;&#2992;&#3009;&#2995;&#3021; &#2980;&#2985;&#3021;&#2985;&#3007;&#2985;&#3021; &#2990;&#3014;&#2991;&#3021;&#2986;&#3021;&#2986;&#3018;&#2992;&#3009;&#2995;&#3021; &#2965;&#2994;&#3021;&#2997;&#3007;&quot;
+              &quot;கைப்பொருள் தன்னின் மெய்ப்பொருள் கல்வி&quot;
             </blockquote>
             <p className="text-gray-700 leading-relaxed mb-4">
               <strong>Meaning:</strong> &quot;Among all possessions, the true
@@ -251,7 +251,7 @@ export default function NeverStopLearningPage() {
               It grows with use rather than diminishing.
             </p>
             <p className="text-gray-700 leading-relaxed">
-              Avvaiyar also wrote: &quot;&#2965;&#2993;&#3021;&#2993;&#2980;&#3009; &#2965;&#3016;&#2990;&#3021;&#2990;&#2979; &#2949;&#2995;&#2997;&#3009;&quot;&mdash;&quot;What you have
+              Avvaiyar also wrote: &quot;கற்றது கைம்மண் அளவு&quot;&mdash;&quot;What you have
               learned is only a handful.&quot; Even after a lifetime of learning,
               there is always infinitely more to discover. This is not
               discouraging but exciting. The journey never ends.
