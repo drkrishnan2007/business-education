@@ -269,16 +269,6 @@ export default function BuildingTrustPage() {
               <strong>Meaning:</strong> &quot;Do not lie to your own conscience.
               After lying, your own heart will burn you.&quot;
             </p>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              Chanakya advised on choosing trusted associates:
-            </p>
-            <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
-              &quot;विश्वासो नैव कर्तव्यः स्त्रीषु राजकुलेषु च।&quot;
-            </blockquote>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;Do not place blind trust; verify
-              through observation and testing.&quot;
-            </p>
             <p className="text-gray-700 leading-relaxed">
               <strong>In modern terms:</strong> Trust must be earned, not assumed.
               A wise leader builds trust through consistent action, while also

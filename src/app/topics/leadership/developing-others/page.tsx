@@ -295,7 +295,8 @@ export default function DevelopingOthersPage() {
               &quot;वृद्धं यवीयांसमनुशिष्यात्।&quot;
             </blockquote>
             <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;The elder should teach the younger.&quot;
+              <strong>Meaning:</strong> &quot;Those with experience should teach
+              those who are learning.&quot;
             </p>
             <p className="text-gray-700 leading-relaxed">
               <strong>In modern terms:</strong> Knowledge and capability must be

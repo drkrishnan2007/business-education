@@ -242,8 +242,8 @@ export default function WhatLeadershipMeansPage() {
               பண்புடைமை தூதுரைப்பான் பண்பு&quot;
             </blockquote>
             <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;Love, noble birth, and good character&mdash;these
-              are the qualities of one who speaks for the king.&quot;
+              <strong>Meaning:</strong> &quot;Love, nobility, and virtuous
+              character&mdash;these are the qualities of a great leader.&quot;
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
               Chanakya emphasized that the leader&apos;s welfare depends on the people&apos;s welfare:
