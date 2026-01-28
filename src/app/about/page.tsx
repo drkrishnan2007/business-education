@@ -63,10 +63,23 @@ export default function AboutPage() {
               controlled trade routes from Indonesia to Egypt.
             </p>
             <p>
-              Chanakya, adviser to Emperor Chandragupta Maurya, wrote the Arthashastra
-              over 2,300 years ago—the world&apos;s first comprehensive textbook on economics,
-              governance, and statecraft. His principles on wealth creation, ethical trade,
-              and prosperity remain remarkably relevant today.
+              <strong>Chanakya</strong> (also known as Kautilya), adviser to Emperor
+              Chandragupta Maurya, wrote the Arthashastra over 2,300 years ago—the
+              world&apos;s first comprehensive textbook on economics, governance, and
+              statecraft. His principles on wealth creation, ethical trade, and
+              prosperity remain remarkably relevant today.
+            </p>
+            <p>
+              <strong>Thiruvalluvar</strong>, the celebrated Tamil poet and philosopher,
+              composed the Thirukkural—1,330 couplets covering ethics, governance, and
+              love. Written around 2,000 years ago, it remains one of the most translated
+              works in the world, offering timeless wisdom on character and conduct.
+            </p>
+            <p>
+              <strong>Avvaiyar</strong>, the revered Tamil poetess, wrote simple yet
+              profound verses that have been taught to children for over a thousand years.
+              Her works like Aathichudi and Konrai Venthan pack deep wisdom into
+              memorable phrases that guide everyday life.
             </p>
             <p>
               This heritage was disrupted, not lost. Now is the time to reconnect with
@@ -126,10 +139,10 @@ export default function AboutPage() {
         <section className="card p-8 mb-8">
           <h2 className="text-2xl font-serif text-[#5b21b6] mb-4">About the Author</h2>
           <p className="text-gray-700 text-lg leading-relaxed mb-4">
-            This resource is created by <strong>Dr Krishnan Pasupathi</strong>, an NHS GP
-            with 29 years in medicine. As someone who has worked at the intersection of
-            service and business—running a medical practice while caring for patients—he
-            understands that good business and ethical practice are not opposites.
+            This resource is created by <strong>Dr Krishnan Pasupathi</strong>, a doctor
+            and business partner. Having worked at the intersection of service and
+            enterprise, he understands that good business and ethical practice are not
+            opposites—they strengthen each other.
           </p>
           <p className="text-gray-700 text-lg leading-relaxed">
             His goal is to make business and financial literacy accessible to everyone,
