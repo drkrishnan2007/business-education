@@ -32,7 +32,8 @@ const topics = [
     title: 'How Decisions Get Made',
     description: 'Explore frameworks for making better choices, managing uncertainty, and understanding how organisations make decisions.',
     icon: '🎯',
-    isActive: false,
+    href: '/topics/decisions',
+    isActive: true,
   },
   {
     title: 'How to Lead',
