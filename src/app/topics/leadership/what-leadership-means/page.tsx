@@ -12,7 +12,7 @@ export default function WhatLeadershipMeansPage() {
       <div className="max-w-3xl mx-auto px-4 py-12 md:py-16">
         {/* Breadcrumb */}
         <nav className="mb-8">
-          <Link href="/topics/business/leadership" className="text-[#5b21b6] hover:text-[#7c3aed]">
+          <Link href="/topics/leadership" className="text-[#5b21b6] hover:text-[#7c3aed]">
             &larr; How to Lead
           </Link>
         </nav>
@@ -339,7 +339,7 @@ export default function WhatLeadershipMeansPage() {
         {/* Navigation */}
         <nav className="flex justify-between items-center mt-12 pt-8 border-t border-gray-200">
           <Link
-            href="/topics/business/leadership"
+            href="/topics/leadership"
             className="text-[#5b21b6] hover:text-[#7c3aed] flex items-center gap-2"
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -348,7 +348,7 @@ export default function WhatLeadershipMeansPage() {
             Back to How to Lead
           </Link>
           <Link
-            href="/topics/business/leadership/leading-by-example"
+            href="/topics/leadership/leading-by-example"
             className="text-[#5b21b6] hover:text-[#7c3aed] flex items-center gap-2"
           >
             Next: Leading by Example

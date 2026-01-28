@@ -39,7 +39,7 @@ const topics = [
     title: 'How to Lead',
     description: 'Discover leadership principles from ancient texts and modern research. Learn to inspire, guide, and serve others.',
     icon: '🧭',
-    href: '/topics/business/leadership',
+    href: '/topics/leadership',
     isActive: true,
   },
   {
