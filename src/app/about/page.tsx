@@ -64,7 +64,7 @@ export default function AboutPage() {
             </p>
             <p>
               <strong>Chanakya</strong> (also known as Kautilya), adviser to Emperor
-              Chandragupta Maurya, wrote the Arthashastra over 2,300 years ago—the
+              Chandragupta Maurya, wrote the Arthashastra over 2,000 years ago—the
               world&apos;s first comprehensive textbook on economics, governance, and
               statecraft. His principles on wealth creation, ethical trade, and
               prosperity remain remarkably relevant today.
@@ -72,7 +72,7 @@ export default function AboutPage() {
             <p>
               <strong>Thiruvalluvar</strong>, the celebrated Tamil poet and philosopher,
               composed the Thirukkural—1,330 couplets covering ethics, governance, and
-              love. Written around 2,000 years ago, it remains one of the most translated
+              love. Written over 2,000 years ago, it remains one of the most translated
               works in the world, offering timeless wisdom on character and conduct.
             </p>
             <p>
