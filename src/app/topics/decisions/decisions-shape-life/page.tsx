@@ -251,11 +251,13 @@ export default function DecisionsShapeLifePage() {
               Chanakya advised on the consequences of choices:
             </p>
             <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
-              &quot;प्रारभ्यते न खलु विघ्नभयेन नीचैः।&quot;
+              &quot;उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः।<br />
+              न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः॥&quot;
             </blockquote>
             <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;The noble do not abandon their
-              efforts for fear of obstacles.&quot;
+              <strong>Meaning:</strong> &quot;Works are accomplished through
+              effort, not mere wishes. Deer do not enter the mouth of a
+              sleeping lion.&quot;
             </p>
             <p className="text-gray-700 leading-relaxed">
               <strong>In modern terms:</strong> Your decisions are your
