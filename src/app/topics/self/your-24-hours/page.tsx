@@ -196,13 +196,12 @@ export default function Your24HoursPage() {
               preciousness of time and opportunity:
             </p>
             <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-4 border-l-4 border-[#eab308] pl-4">
-              &quot;&#2958;&#2994;&#3021;&#2994;&#3006; &#2997;&#3007;&#2996;&#3009;&#2990;&#2990;&#3021; &#2951;&#2996;&#2984;&#3021;&#2980;&#2965;&#3021;&#2965;&#3006;&#2994;&#3021; &#2951;&#2996;&#3016;&#2984;&#3021;&#2980;&#2980;&#3009;&#2970;&#3021;<br />
-              &#2970;&#3014;&#2994;&#3021;&#2994;&#2980;&#3021; &#2980;&#3009;&#2979;&#3016;&#2965;&#3021;&#2965;&#3009;&#2990;&#3021; &#2990;&#3009;&#2994;&#3016;.&quot;
+              &quot;எய்தற் கரியது இயைந்தக்கால் அந்நிலையே<br />
+              செய்தற் கரிய செயல்.&quot;
             </blockquote>
             <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;Those who seize the right moment will
-              accomplish great things. Those who waste it will lose even what
-              they had.&quot;
+              <strong>Meaning:</strong> &quot;When a rare opportunity comes, act
+              immediately—do what is hard to do.&quot; (Kural 489)
             </p>
             <p className="text-gray-700 leading-relaxed">
               Thiruvalluvar understood that time and opportunity are closely
