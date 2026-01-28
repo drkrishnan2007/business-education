@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Preparation is Everything - Business Wisdom',
-  description: 'Learn why the best negotiators do most of their work before the conversation starts. Master Chanakya\\'s wisdom on strategic preparation.',
+  description: "Learn why the best negotiators do most of their work before the conversation starts. Master Chanakya's wisdom on strategic preparation.",
 };
 
 export default function PreparationPage() {
