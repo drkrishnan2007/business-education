@@ -236,33 +236,13 @@ export default function WhatMarketingMeansPage() {
           {/* Wisdom Section */}
           <section className="wisdom-box mb-8">
             <h2 className="text-2xl font-serif text-[#5b21b6] mb-4">
-              Ancient Wisdom on Giving
+              The Spirit of Good Marketing
             </h2>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              The Thirukkural, written over 2,000 years ago, teaches about the
-              nature of true giving and helping others:
-            </p>
-            <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
-              &quot;கொடுப்பது அழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம்<br />
-              உண்பதூஉம் இன்றிக் கெடும்.&quot;
-            </blockquote>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;Those who do not share will lose even
-              what they have for themselves—food and clothing alike.&quot;
-            </p>
-            <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
-              &quot;வறியார்க்கொன்று ஈவதே ஈகை&quot;
-            </blockquote>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;True charity is giving to those who have
-              nothing.&quot; (Kural 221)
-            </p>
             <p className="text-gray-700 leading-relaxed">
-              <strong>In modern terms:</strong> The best marketing comes from a
-              spirit of genuine giving. When you truly want to help people, and
-              your product or service actually helps them, marketing becomes natural.
-              You are not trying to take from people—you are trying to give them
-              something valuable.
+              The best marketing comes from a spirit of genuine giving. When you
+              truly want to help people, and your product or service actually
+              helps them, marketing becomes natural. You are not trying to take
+              from people—you are trying to give them something valuable.
             </p>
           </section>
 

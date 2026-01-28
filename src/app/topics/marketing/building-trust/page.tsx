@@ -285,39 +285,14 @@ export default function BuildingTrustPage() {
           {/* Wisdom Section */}
           <section className="wisdom-box mb-8">
             <h2 className="text-2xl font-serif text-[#5b21b6] mb-4">
-              Ancient Wisdom on Reputation
+              Timeless Principles of Reputation
             </h2>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              The Thirukkural, written over 2,000 years ago, contains timeless
-              wisdom about reputation and conduct:
-            </p>
-            <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
-              &quot;உடையது விளம்பேல்&quot;
-            </blockquote>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;Do not boast about what you have.&quot;
-              (Avvaiyar)
-            </p>
-            <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
-              &quot;நன்றி மறப்பது நன்றன்று நன்றல்லது<br />
-              அன்றே மறப்பது நன்று.&quot;
-            </blockquote>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;Forgetting kindness received is not good.
-              But forgetting harm done to you immediately is good.&quot; (Kural 108)
-            </p>
-            <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
-              &quot;ஒப்புரவினால் வருவது உயர்வு&quot;
-            </blockquote>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;Helping others brings true elevation.&quot;
-            </p>
             <p className="text-gray-700 leading-relaxed">
-              <strong>In modern terms:</strong> Let your work speak, not your words.
-              Remember those who helped you, but do not hold grudges against those
-              who wronged you. Your reputation grows from what you give, not from
-              what you claim. These principles have not changed in 2,000 years—and
-              they will not change in the next 2,000.
+              Let your work speak, not your words. Remember those who helped you,
+              but do not hold grudges against those who wronged you. Your reputation
+              grows from what you give, not from what you claim. These principles
+              have not changed in 2,000 years—and they will not change in the next
+              2,000.
             </p>
           </section>
 

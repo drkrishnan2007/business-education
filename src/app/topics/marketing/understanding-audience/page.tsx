@@ -276,33 +276,13 @@ export default function UnderstandingAudiencePage() {
           {/* Wisdom Section */}
           <section className="wisdom-box mb-8">
             <h2 className="text-2xl font-serif text-[#5b21b6] mb-4">
-              Ancient Wisdom on Understanding
+              Understanding Before Acting
             </h2>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              Chanakya, the ancient strategist, emphasised the importance of
-              understanding before acting:
-            </p>
-            <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
-              &quot;देशकालौ समासाद्य कार्यसिद्धिर्भवेन्नृणाम्।&quot;
-            </blockquote>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;Success comes to those who act with proper
-              understanding of place and time.&quot;
-            </p>
-            <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
-              &quot;परोक्षे कार्यहन्तारं प्रत्यक्षे प्रियवादिनम्।<br />
-              वर्जयेत्तादृशं मित्रं विषकुम्भं पयोमुखम्॥&quot;
-            </blockquote>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Meaning:</strong> &quot;Avoid those who speak sweetly to your
-              face but harm your work behind your back—they are like a pot of
-              poison covered with milk.&quot;
-            </p>
             <p className="text-gray-700 leading-relaxed">
-              <strong>In modern terms:</strong> Know your territory before you act.
-              Understand the people you want to serve—their circumstances, their
-              timing, their real nature. Do not assume everyone is the same. Success
-              comes from understanding first, then acting.
+              Know your territory before you act. Understand the people you want
+              to serve—their circumstances, their timing, their real nature. Do
+              not assume everyone is the same. Success comes from understanding
+              first, then acting.
             </p>
           </section>
 
