@@ -111,7 +111,7 @@ export default function BusinessTopicPage() {
         {/* Wisdom Box */}
         <div className="wisdom-box mb-8">
           <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2">
-            &quot;अवसरं प्राप्य कार्याणि कुर्वन्ति बुद्धिमत्तराः।&quot;
+            &quot;अवसरं प्राप्य कार्याणि कुर्वन्ति बुद्धिमत्तमाः॥&quot;
           </blockquote>
           <blockquote className="text-lg font-serif text-[#5b21b6] italic">
             &quot;The wise act when opportunity arrives.&quot;
