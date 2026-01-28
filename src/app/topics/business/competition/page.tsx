@@ -256,11 +256,11 @@ export default function CompetitionPage() {
           {/* Wisdom Section */}
           <section className="wisdom-box mb-8">
             <h2 className="text-2xl font-serif text-[#5b21b6] mb-4">
-              Ancient Wisdom: Chanakya on Strategy
+              Ancient Wisdom on Strategy
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
-              Chanakya was a master strategist. His teachings on positioning
-              apply directly to business competition:
+              Lord Krishna, in the Bhagavad Gita, teaches the mindset needed
+              to face competition with equanimity:
             </p>
             <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
               &quot;समः शत्रौ च मित्रे च तथा मानावमानयोः।<br />
@@ -272,7 +272,7 @@ export default function CompetitionPage() {
               discomfort. Be detached and impartial.&quot;
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
-              Chanakya also advised on knowing your position:
+              Chanakya advised on respecting your competition:
             </p>
             <blockquote className="text-lg font-serif text-[#5b21b6] italic mb-2 border-l-4 border-[#eab308] pl-4">
               &quot;बलवान् अपि दुर्बलं न अवमन्येत।&quot;
