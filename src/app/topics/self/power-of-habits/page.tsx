@@ -52,7 +52,7 @@ export default function PowerOfHabitsPage() {
               automatic routines. This frees up mental space for new challenges.
             </p>
             <p className="text-gray-700 leading-relaxed">
-              Research suggests that about <strong>40% of what you do each day</strong>
+              Research suggests that about <strong>40% of what you do each day</strong>{' '}
               is not a conscious decision&mdash;it is habit. This is either very
               good news or very bad news, depending on your habits.
             </p>
