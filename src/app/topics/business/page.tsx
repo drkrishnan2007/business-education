@@ -50,6 +50,13 @@ const lessons = [
     href: '/topics/business/why-businesses-fail',
     isActive: true,
   },
+  {
+    number: 7,
+    title: 'How to Lead',
+    description: 'Discover what leadership really means: influence over authority, building trust, making hard decisions, and developing others.',
+    href: '/topics/business/leadership',
+    isActive: true,
+  },
 ];
 
 export default function BusinessTopicPage() {
@@ -104,6 +111,10 @@ export default function BusinessTopicPage() {
             <li className="flex items-start gap-3">
               <span className="text-[#5b21b6] mt-1">&#10003;</span>
               <span>Ancient wisdom from Chanakya on strategy, opportunity, and avoiding failure</span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="text-[#5b21b6] mt-1">&#10003;</span>
+              <span>Timeless leadership principles from Chanakya and Thiruvalluvar</span>
             </li>
           </ul>
         </section>
