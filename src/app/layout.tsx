@@ -6,7 +6,7 @@ import '@/styles/globals.css';
 export const metadata: Metadata = {
   title: 'Business Wisdom - Ancient Knowledge for Modern Success',
   description:
-    'Vasudhaiva Kutumbakam - The world is one family. Bridge ancient Bharatiya wisdom with modern business concepts. Learn finance, leadership, and management through timeless principles.',
+    'Vasudhaiva Kutumbakam - The world is one family. Bridge ancient Bharatiya wisdom with modern business concepts. Learn finance, leadership, management, and career skills through timeless principles.',
   keywords: [
     'business education',
     'Chanakya',
@@ -15,6 +15,8 @@ export const metadata: Metadata = {
     'finance basics',
     'leadership',
     'management',
+    'soft skills',
+    'career skills',
   ],
   authors: [{ name: 'Dr Krishnan Pasupathi' }],
   openGraph: {

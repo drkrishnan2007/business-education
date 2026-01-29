@@ -50,10 +50,18 @@ export default function Header() {
             </li>
             <li>
               <Link
-                href="/topics"
+                href="/foundations"
                 className="text-gray-700 hover:text-[#5b21b6] transition-colors py-2"
               >
-                Topics
+                Foundations
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/careers"
+                className="text-gray-700 hover:text-[#5b21b6] transition-colors py-2"
+              >
+                Careers
               </Link>
             </li>
             <li>
@@ -62,14 +70,6 @@ export default function Header() {
                 className="text-gray-700 hover:text-[#5b21b6] transition-colors py-2"
               >
                 About
-              </Link>
-            </li>
-            <li>
-              <Link
-                href="/topics/money"
-                className="btn-primary text-sm"
-              >
-                Start Learning
               </Link>
             </li>
           </ul>
@@ -89,11 +89,20 @@ export default function Header() {
             </li>
             <li>
               <Link
-                href="/topics"
+                href="/foundations"
                 className="block text-gray-700 hover:text-[#5b21b6] transition-colors py-2"
                 onClick={() => setIsMenuOpen(false)}
               >
-                Topics
+                Foundations
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/careers"
+                className="block text-gray-700 hover:text-[#5b21b6] transition-colors py-2"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                Careers
               </Link>
             </li>
             <li>
@@ -103,15 +112,6 @@ export default function Header() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 About
-              </Link>
-            </li>
-            <li>
-              <Link
-                href="/topics/money"
-                className="btn-primary inline-block text-sm"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                Start Learning
               </Link>
             </li>
           </ul>

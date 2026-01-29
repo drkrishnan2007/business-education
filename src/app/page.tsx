@@ -22,49 +22,67 @@ export default function HomePage() {
           and prepare for the opportunities ahead.
         </p>
 
-        <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <Link href="/topics/money" className="btn-primary text-lg px-8 py-4">
-            Start Learning
-          </Link>
-          <Link
-            href="/about"
-            className="btn-secondary text-lg px-8 py-4"
-          >
-            Learn More
-          </Link>
-        </div>
+        <Link href="/about" className="btn-secondary text-lg px-8 py-4">
+          Learn More
+        </Link>
       </section>
 
-      {/* Featured Topic */}
+      {/* Two Track Choice */}
       <section className="max-w-6xl mx-auto px-4 pb-16">
-        <div className="card p-8 md:p-12 bg-gradient-to-br from-[#5b21b6] to-[#7c3aed] text-white">
-          <div className="flex flex-col md:flex-row items-center gap-8">
-            <div className="text-6xl md:text-8xl">
-              <span role="img" aria-label="money">💰</span>
+        <h2 className="text-3xl font-serif text-[#5b21b6] text-center mb-4">
+          Choose Your Path
+        </h2>
+        <p className="text-gray-600 text-center mb-12 max-w-2xl mx-auto">
+          We recommend starting with Foundations to build core business understanding,
+          then moving to Careers for professional skills.
+        </p>
+
+        <div className="grid md:grid-cols-2 gap-8">
+          {/* Foundations Track */}
+          <Link href="/foundations" className="card p-8 md:p-10 border-2 border-transparent hover:border-[#5b21b6] transition-colors block">
+            <div className="text-5xl mb-4">🏛️</div>
+            <span className="inline-block text-xs bg-[#5b21b6] text-white px-3 py-1 rounded-full mb-4">
+              Recommended First
+            </span>
+            <h3 className="text-2xl font-serif text-[#5b21b6] mb-3">
+              Foundations
+            </h3>
+            <p className="text-gray-600 mb-4 leading-relaxed">
+              Business basics that everyone should know. Money, organisations, people,
+              decisions, leadership, negotiation, and more. Ancient Bharatiya wisdom
+              meets modern business concepts.
+            </p>
+            <div className="text-sm text-gray-500 space-y-1">
+              <p>📚 8 topics · 45 lessons</p>
+              <p>⏱️ ~10 hours total</p>
+              <p>🧘 Deep integration of ancient wisdom</p>
             </div>
-            <div className="flex-1 text-center md:text-left">
-              <span className="text-[#eab308] text-sm font-medium uppercase tracking-wide">
-                Featured Topic
-              </span>
-              <h2 className="text-3xl md:text-4xl font-serif mt-2 mb-4 text-white">
-                How Money Works
-              </h2>
-              <p className="text-white/90 text-lg mb-6 leading-relaxed">
-                Understand the basics of money, from its origins to how businesses use it today.
-                Learn the timeless principles that Chanakya taught over 2,000 years ago.
-              </p>
-              <Link
-                href="/topics/money"
-                className="inline-block bg-white text-[#5b21b6] px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors"
-              >
-                Begin Your Journey
-              </Link>
+          </Link>
+
+          {/* Careers Track */}
+          <Link href="/careers" className="card p-8 md:p-10 border-2 border-transparent hover:border-[#f97316] transition-colors block">
+            <div className="text-5xl mb-4">🚀</div>
+            <span className="inline-block text-xs bg-[#f97316] text-white px-3 py-1 rounded-full mb-4">
+              Professional Skills
+            </span>
+            <h3 className="text-2xl font-serif text-[#5b21b6] mb-3">
+              Careers
+            </h3>
+            <p className="text-gray-600 mb-4 leading-relaxed">
+              Soft skills that employers want but schools don&apos;t teach.
+              Communication, problem-solving, teamwork, and more. Each lesson
+              includes AI practice prompts to build real skills.
+            </p>
+            <div className="text-sm text-gray-500 space-y-1">
+              <p>📚 11 topics · 46 lessons</p>
+              <p>⏱️ ~12 hours total</p>
+              <p>🤖 AI-powered practice prompts</p>
             </div>
-          </div>
+          </Link>
         </div>
       </section>
 
-      {/* Why This Matters */}
+      {/* Why This Matters Now */}
       <section className="max-w-6xl mx-auto px-4 pb-16">
         <h2 className="text-3xl font-serif text-[#5b21b6] text-center mb-12">
           Why This Matters Now
@@ -111,20 +129,6 @@ export default function HomePage() {
             — Chanakya, Arthashastra (4th century BCE)
           </p>
         </div>
-      </section>
-
-      {/* CTA Section */}
-      <section className="max-w-6xl mx-auto px-4 pb-16 text-center">
-        <h2 className="text-3xl font-serif text-[#5b21b6] mb-4">
-          Ready to Begin?
-        </h2>
-        <p className="text-gray-600 text-lg mb-8 max-w-2xl mx-auto">
-          Start with our first topic: How Money Works. It takes about 15 minutes
-          to complete the first lesson.
-        </p>
-        <Link href="/topics/money" className="btn-primary text-lg px-8 py-4">
-          Start Your First Lesson
-        </Link>
       </section>
     </div>
   );

@@ -175,11 +175,16 @@ export default function AboutPage() {
             Ready to Start Learning?
           </h2>
           <p className="text-gray-600 mb-6">
-            Begin with our first topic: How Money Works
+            Choose your path and begin your journey
           </p>
-          <Link href="/topics/money" className="btn-primary">
-            Start Your Journey
-          </Link>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <Link href="/foundations" className="btn-primary">
+              Start Foundations
+            </Link>
+            <Link href="/careers" className="btn-secondary">
+              Start Careers
+            </Link>
+          </div>
         </section>
       </div>
     </div>
