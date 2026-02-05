@@ -13,10 +13,15 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <Link
             href="/"
-            className="flex items-center gap-2 text-xl md:text-2xl font-serif text-[#5b21b6] hover:text-[#7c3aed] transition-colors"
+            className="flex flex-col hover:opacity-90 transition-opacity"
           >
-            <Image src="/images/logo-icon-guru.png" alt="" width={32} height={32} className="rounded" />
-            Business Wisdom
+            <div className="flex items-center gap-2">
+              <Image src="/images/logo-icon-guru.png" alt="" width={36} height={36} className="rounded-lg" />
+              <span className="text-2xl md:text-3xl font-bold text-[#1e1b4b]">
+                Aryash<span className="text-[#eab308]">Guru</span>
+              </span>
+            </div>
+            <span className="text-sm text-gray-500 font-medium ml-[44px]">Business Wisdom</span>
           </Link>
 
           {/* Mobile menu button */}
