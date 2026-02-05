@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState } from 'react';
 
 export default function Header() {
@@ -12,8 +13,9 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <Link
             href="/"
-            className="text-xl md:text-2xl font-serif text-[#5b21b6] hover:text-[#7c3aed] transition-colors"
+            className="flex items-center gap-2 text-xl md:text-2xl font-serif text-[#5b21b6] hover:text-[#7c3aed] transition-colors"
           >
+            <Image src="/images/logo-icon-guru.png" alt="" width={32} height={32} className="rounded" />
             Business Wisdom
           </Link>
 

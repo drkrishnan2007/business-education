@@ -19,6 +19,9 @@ export const metadata: Metadata = {
     'career skills',
   ],
   authors: [{ name: 'Dr Krishnan Pasupathi' }],
+  icons: {
+    icon: [{ url: '/favicon.svg', type: 'image/svg+xml' }],
+  },
   openGraph: {
     title: 'Business Wisdom - Ancient Knowledge for Modern Success',
     description: 'Vasudhaiva Kutumbakam - The world is one family. Learn modern business through ancient wisdom.',
