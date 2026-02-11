@@ -16,12 +16,12 @@ export default function Header() {
             className="flex flex-col hover:opacity-90 transition-opacity"
           >
             <div className="flex items-center gap-2">
-              <Image src="/images/logo-icon-guru.png" alt="" width={36} height={36} className="rounded-lg" />
+              <Image src="/images/logo-icon-guru.png" alt="" width={56} height={56} className="rounded-xl" />
               <span className="text-2xl md:text-3xl font-bold text-[#1e1b4b]">
                 Aryash<span className="text-[#eab308]">Guru</span>
               </span>
             </div>
-            <span className="text-sm text-gray-500 font-medium ml-[44px]">Business Wisdom</span>
+            <span className="text-sm text-gray-500 font-medium ml-[64px]">Business Wisdom</span>
           </Link>
 
           {/* Mobile menu button */}
