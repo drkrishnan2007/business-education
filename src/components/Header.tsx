@@ -73,6 +73,14 @@ export default function Header() {
             </li>
             <li>
               <Link
+                href="/videos"
+                className="text-gray-700 hover:text-[#5b21b6] transition-colors py-2"
+              >
+                Videos
+              </Link>
+            </li>
+            <li>
+              <Link
                 href="/about"
                 className="text-gray-700 hover:text-[#5b21b6] transition-colors py-2"
               >
@@ -110,6 +118,15 @@ export default function Header() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 Careers
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/videos"
+                className="block text-gray-700 hover:text-[#5b21b6] transition-colors py-2"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                Videos
               </Link>
             </li>
             <li>
